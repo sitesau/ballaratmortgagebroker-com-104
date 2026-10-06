@@ -1,0 +1,19 @@
+{
+  "wheel_id": 343,
+  "structure": "umbrella",
+  "slug": "ballaratmortgagebroker-com-104",
+  "project": "mortgage-broker-ballarat-costs-1a9f72f3eb573f6ac3d337356a92c162",
+  "parent_t1_ref": "ballaratmortgagebroker-com-151",
+  "node_role": "feeder",
+  "money_target": "ballaratmortgagebroker.com.au",
+  "primary_kw": "mortgage broker ballarat costs",
+  "intended_url": "http://mortgage-broker-ballarat-costs-1a9f72f3eb573f6ac3d337356a92c162.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "b95790352ca6b360",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/mortgage-broker-ballarat-7c1221ed77ea8bda10dc9d3f9a7875529c63c0/",
+      "anchor": "mortgage broker ballarat",
+      "rel": "follow"
+    }
+  ]
+}
